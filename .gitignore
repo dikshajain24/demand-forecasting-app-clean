@@ -1,0 +1,7 @@
+# Ignore raw data and heavy files
+data/raw/*
+venv/
+__pycache__/
+*.parquet
+*.csv
+*.pkl
